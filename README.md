@@ -1,7 +1,7 @@
 
 ************ REUSABLE PLUS 08/06/2016 ************
 
-Reusable Plus|Reusable Bola|"Blueprint'/Game/Mods/ReusablePlus/Bola/PrimalItem_WeaponReusableBola.PrimalItem_WeaponReusableBola'"|Reusable Plus|FALSE|Reusable Plus|Reusable Flare Gun|"Blueprint'/Game/Mods/ReusablePlus/FlareGun/PrimalItem_WeaponReusableFlareGun.PrimalItem_WeaponReusableFlareGun'"|Reusable Plus|FALSE|Reusable Plus|Reusable Grappling Hook|"Blueprint'/Game/Mods/ReusablePlus/GrapplingHook/PrimalItemAmmo_ReusableGrapplingHook.PrimalItemAmmo_ReusableGrapplingHook'"|Reusable Plus|FALSE|Reusable Plus|Reusable Parachute|"Blueprint'/Game/Mods/ReusablePlus/Parachute/PrimalItemConsumableBuff_ReusableParachute.PrimalItemConsumableBuff_ReusableParachute'"|Reusable Plus|FALSE|Reusable Plus|Reusable Spear|"Blueprint'/Game/Mods/ReusablePlus/Spear/PrimalItem_WeaponReusableSpear.PrimalItem_WeaponReusableSpear'"|Reusable Plus|FALSE
+Reusable Plus|Reusable Bola|"Blueprint'/Game/Mods/ReusablePlus/Bola/PrimalItem_WeaponReusableBola.PrimalItem_WeaponReusableBola'"||FALSE|Reusable Plus|Reusable Flare Gun|"Blueprint'/Game/Mods/ReusablePlus/FlareGun/PrimalItem_WeaponReusableFlareGun.PrimalItem_WeaponReusableFlareGun'"||FALSE|Reusable Plus|Reusable Grappling Hook|"Blueprint'/Game/Mods/ReusablePlus/GrapplingHook/PrimalItemAmmo_ReusableGrapplingHook.PrimalItemAmmo_ReusableGrapplingHook'"||FALSE|Reusable Plus|Reusable Parachute|"Blueprint'/Game/Mods/ReusablePlus/Parachute/PrimalItemConsumableBuff_ReusableParachute.PrimalItemConsumableBuff_ReusableParachute'"||FALSE|Reusable Plus|Reusable Spear|"Blueprint'/Game/Mods/ReusablePlus/Spear/PrimalItem_WeaponReusableSpear.PrimalItem_WeaponReusableSpear'"||FALSE
 
 
 
